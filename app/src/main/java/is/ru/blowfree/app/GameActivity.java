@@ -13,6 +13,7 @@ public class GameActivity extends ActionBarActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game);
         Intent intent = getIntent();
+
     }
 
 

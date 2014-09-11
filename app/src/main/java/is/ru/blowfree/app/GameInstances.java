@@ -4,9 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 
-/**
- * Created by oen on 11.9.2014.
- */
+
 public class GameInstances extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
