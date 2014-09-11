@@ -6,15 +6,11 @@
               android:layout_height="match_parent">
 
 
-    <TextView android:layout_width="fill_parent" android:layout_height="match_parent"
-              android:text="game board should be here"
-            />
-    <!--<com.example.ATracePath.Board
+
+     <is.ru.blowfree.app.Board.Board
             android:id="@+id/board"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:background="#444444"
             />
-             TO DO get drawing class from yngvi
-             -->
 </LinearLayout>
