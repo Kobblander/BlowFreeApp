@@ -16,7 +16,7 @@
                 android:id="@+id/Continue"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/continue"
+                android:text="@string/continue_game"
                 android:onClick="continueGame"
                 />
 
@@ -32,7 +32,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/settings"
-                android:onClick="settings"
+                android:onClick="gameSettings"
                 />
     </TableLayout>
 
